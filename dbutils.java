@@ -1,6 +1,3 @@
 hello guys wt are doing.
 
-hi java iam updating you
-
-
-hello.
+hi java iam updating you.
